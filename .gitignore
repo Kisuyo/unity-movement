@@ -1,0 +1,28 @@
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Unity-specific
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+Build/
+Builds/
+.vscode/
+.idea/
+.vs/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Unity auto-generated files
+unity_auto_generated_files/
+
+# Ignore logs
+*.log
+
+# Ignore crash dumps
+crashdumps/
